@@ -50,3 +50,6 @@ El proyecto combina técnicas avanzadas de procesamiento de lenguaje natural  y 
 - Gonzalo Ariel Sabas -
 
 ---
+## Enlaces
+- https://proyectoindividual-1-1rze.onrender.com/docs
+- https://github.com/GASabas/ProyectoIndividual-1.git
